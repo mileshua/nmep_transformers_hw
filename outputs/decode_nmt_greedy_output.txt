@@ -1,0 +1,33 @@
+Using device: cuda
+French: Le Parlement européen salue les décisions prises par la Commission européenne, telles que présentées dans ce rapport, y compris celle qui exige, dans un cas précis, le remboursement des sommes allouées et applique donc l'article 88 du traité CECA.
+Ground Truth English: The European Parliament welcomes the decisions taken by the Commission, as set out in this report, including the one which, in a specific case, demands the repayment of the sums allocated and therefore applies Article 88 of the ECSC Treaty.
+Model Translation: [BOS] The European Parliament welcomes the decisions taken by the European Commission, such as the report presented, including the need for a specific case, the rejection of the remarks and therefore applying Article EC Treaty.
+--------------------
+French: On sait que jusqu'à présent, le Conseil a refusé d'adopter un tel règlement.
+Ground Truth English: We know that the Council has so far refused to adopt such a regulation.
+Model Translation: [BOS] It is well known that the Council has been able to adopt a regulation, so far as the Council has been able to adopt a regulation, so far as the Council has been able to adopt a regulation.
+--------------------
+French: Il ne faudrait pas que le nouveau modèle expérimenté à l' heure actuelle par la Commission ait pour conséquence un pur processus de nationalisation, qui annulerait les effets obtenus par notre politique de concurrence.
+Ground Truth English: The new model currently being tested by the Commission should not result in a pure process of nationalisation which would undo the effects achieved by our competition policy.
+Model Translation: [BOS] It should not be for the new model to be exemption by the Commission at present, to have a result of a national process of nationalisation, which would be to re - annual the effects of our competition policy.......................................... The new model is not the new model is the new model, the new model, the Commission has now expect to have the Commission, the Commission, the Commission has now, the Commission, by the Commission, the Commission, the Commission, the Commission, the Commission has, the Commission has the Commission has the Commission has now, for the Commission, for the Commission, for a result, for a result, for a result, a result, a result, a result, a result, a result, a result, a result, a result, a result,
+--------------------
+French: Si nous voulons qu'une culture juridique existe en Europe, il va sans dire que le droit ne peut être appliqué par la seule Commission, par des organes centraux, mais qu'il doit aussi l'être par les autorités nationales, par les tribunaux nationaux.
+Ground Truth English: If we want a legal culture to exist in Europe, it goes without saying that the law cannot be applied only by the Commission, by central bodies, but must also be applied by the national authorities, by the national courts.
+Model Translation: [BOS] If we want a legal culture in Europe, it will be said that the right to be applied by the Commission cannot be applied by the only Commission, by the only relevant bodies, but it must also be the national authorities, by national national authorities, national law.
+--------------------
+French: Il importe d'assurer la cohérence entre les objectifs de la politique agricole commune et ceux de la politique environnementale, notamment en matière de biodiversité.
+Ground Truth English: It is important to ensure coherence between the objectives of the Common Agricultural Policy and those of environmental policy, particularly concerning biodiversity.
+Model Translation: [BOS] It is important to ensure the coherent between the objectives of the common agricultural policy and those of the environment, particularly in terms of biodiversity, and biodiversity.
+--------------------
+French: La mise en œuvre des mesures transitoires doit être rigoureusement surveillée afin de garantir une concurrence loyale et non faussée sur le marché intérieur.
+Ground Truth English: The implementation of transitional measures must be rigorously monitored to guarantee fair and undistorted competition within the internal market.
+Model Translation: [BOS] The implementation of transitional measures must be rigorous in order to ensure that fair competition and not internal market - internal market - based measures must be rigorous.
+--------------------
+French: Toute modification du cadre financier pluriannuel requiert l'accord unanime du Conseil, après consultation et approbation du Parlement européen.
+Ground Truth English: Any modification to the multiannual financial framework requires the unanimous agreement of the Council, following consultation and approval by the European Parliament.
+Model Translation: [BOS] All the amendment of the multinational financial framework is to reject the unanimous agreement of the Council, after consultation and consultation of the European Parliament, and it is therefore necessary to reject the Council ' s unanimous agreement.
+--------------------
+French: Nous devons renforcer la coopération avec les pays tiers pour relever les défis migratoires et œuvrer conjointement à la stabilité régionale.
+Ground Truth English: We must strengthen cooperation with third countries to address migratory challenges and work jointly towards regional stability.
+Model Translation: [BOS] We must strengthen cooperation with third countries to address the challenges of migrants and to work together to the regional stability and regional stability..........
+--------------------
